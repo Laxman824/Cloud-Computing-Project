@@ -179,11 +179,4 @@ Distributed under the MIT License. See
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Anirudha - [@4n1rudh4](https://twitter.com/4n1rudh4) - kulkarnianirudha8 [at] gmail [dot] com
-
-
-
 
