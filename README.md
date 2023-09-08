@@ -165,6 +165,17 @@ Upon increasing memory size, time taken to take snapshot and restore time both i
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Project Explained in brief :
+6.Cloud Computing project : Explaining in simple :The project was about creating a tool that helps people who use virtual machines. Virtual machines are like computers that run inside another computer. They are useful because they let people run different operating systems or software without needing a separate computer for each one.
+
+The tool we created was called a snapshotting API. It's like a camera that takes a picture of a virtual machine at a certain point in time. This picture is called a snapshot. Snapshots are useful because they let people save the state of a virtual machine and come back to it later. For example, if someone is working on a project in a virtual machine and they want to take a break, they can take a snapshot and come back to it later without losing any progress.
+
+We used a programming language called Rust to create the snapshotting API. Rust is a good language for this kind of project because it's safe and fast. This means that the API is less likely to have bugs or security problems, and it works quickly.
+
+We divided the project into five main stages. The first stage was about creating a basic virtual machine that we could use for testing. The second stage was about adding a feature that lets people pause and resume a virtual machine. The third stage was about making the snapshotting API into a smaller, more efficient program. The fourth stage was about creating a web server that could run multiple virtual machines at once. The final stage was about making the snapshotting API more efficient by using a technique called deduplication. This means that if two snapshots are very similar, we only need to save the parts that are different.
+
+The snapshotting API we created was used by different parts of the project. For example, a load balancer used it to move virtual machines around, a frontend used it to create new virtual machines from a base image, and an anti-cheating system used it to monitor who was using the virtual machines.
+
 
 
 <!-- LICENSE -->
